@@ -67,6 +67,6 @@ function changeTheme() {
 
 input?.addEventListener("keyup", refreshTest)
 restart?.addEventListener("click", restartTest)
-changeThemeBtn?.addEventListener("click", changeTheme)
+hangeThemeBtn?.addEventListener("click", changeTheme)
 
 newPrases()
