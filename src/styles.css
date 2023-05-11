@@ -1,9 +1,9 @@
 * {
 	box-sizing: border-box;
+	font-family: "Cutive Mono", monospace;
 }
 
 body {
-	font-family: Arial;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 1.5rem;
@@ -43,15 +43,22 @@ h1 {
 button {
 	font-size: 1rem;
 	padding: 0.6rem 1.2rem;
-	background-color: #007bff;
-	color: #fff;
+	background-color: #e6d4b1;
+	color: #6d5435;
 	border: none;
 	cursor: pointer;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 	transition: 0.3s;
 }
 
 button:hover {
-	background-color: #0056b3;
+	background-color: #d1b58f;
+	transition: 0.3s;
+}
+
+.button:active {
+	background-color: #766751;
+	box-shadow: none;
 }
 
 #changeTheme {
