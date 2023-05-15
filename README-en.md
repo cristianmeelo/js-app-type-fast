@@ -1,8 +1,21 @@
-![TypeFast](thumbnail.png)
+<table align="right">
+  <tr>
+    <td>
+      <a href="README-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+![TypeFast](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png#vitrinedev)
 
 # TypeFast
 
-TypeFast is a web application for you to train your typing speed! <img src="screencapture.png" alt="Imagem do TypeFast" width="50%">
+TypeFast is a web application for you to train your typing speed! <img src="screencapture.png" alt="Imagem do TypeFast" >
 
 ## 🔨 Project features
 
@@ -10,7 +23,7 @@ Typefast is a web application for you to train your typing speed. There are 10 r
 
 The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar).
 
-## ✔️ Techniques and technologies used
+## ⚙️ Techniques and technologies used
 
 Check out this list of everything we will use in this app:
 
