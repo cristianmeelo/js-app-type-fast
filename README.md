@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![TypeFast](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png#vitrinedev)
+![TypeFast](https://github.com/cristianmeelo/js-app-type-fast/blob/main/thumbnail.png#vitrinedev)
 
 # TypeFast
 
