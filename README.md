@@ -1,30 +1,43 @@
-![TypeFast](thumbnail.png)
+<table align="right">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="readme.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+![TypeFast](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png#vitrinedev)
 
 # TypeFast
 
-TypeFast is a web application for you to train your typing speed! <img src="screencapture.png" alt="Imagem do TypeFast" width="50%">
+TypeFast é um aplicativo web para você treinar sua velocidade de digitação! <img src="screencapture.png" alt="Imagem do TypeFast">
 
-## 🔨 Project features
+## 🔨 Recursos do Projeto
 
-Typefast is a web application for you to train your typing speed. There are 10 randomly generated phrases that must be replicated in the input field, it is case sensitive, so be careful! Upon completing the phrase challenge, a local history of your speed is maintained. Challenge yourself, or someone else!
+Typefast é um aplicativo da web para você treinar sua velocidade de digitação. Existem 10 frases geradas aleatoriamente que devem ser replicadas no campo de entrada, diferencia maiúsculas de minúsculas, portanto, cuidado! Ao completar o desafio de frase, um histórico local de sua velocidade é mantido. Desafie a si mesmo, ou a outra pessoa!
 
-The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar).
+O [Tutorial deste aplicativo você encontra aqui](https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar).
 
-## ✔️ Techniques and technologies used
+## ⚙️ Técnicas e tecnologias utilizadas
 
-Check out this list of everything we will use in this app:
+Confira essa lista de tudo que vamos usar nesse app:
 
-- `Html`
-- `Css`
+- `HTML`
+- `CSS`
 - `JavaScript`
 - `GitHub`
 
-## 🛠️ Open and run the project
+## 🛠️ Abra e execute o projeto
 
-To open and run the project, add the Live Server extension, click on the Go Live button usually located in the lower right corner if you are using vscode.
+Para abrir e executar o projeto, adicione a extensão Live Server, clique no botão Go Live geralmente localizado no canto inferior direito se você estiver usando o vscode.
 
-Then go to http://127.0.0.1:5500/ in your browser.
+Em seguida, vá para http://127.0.0.1:5500/ em seu navegador.
 
-## 📚 More course information
+## 📚 Mais informações sobre o curso
 
-TypeFast is a web application developed from the [Matheus Battisti ](https://www.youtube.com/@MatheusBattisti) tutorial. The main idea of ​​this tutorial implementation is to further evolve knowledge in Javascript and a fun game, challenging something out of the ordinary. Monetarily, with this base idea, something like this [app can be created](https://www.ratatype.com.br/).
+TypeFast é um aplicativo da web desenvolvido a partir do tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). A ideia principal da implementação deste tutorial é evoluir ainda mais o conhecimento em Javascript e um jogo divertido, desafiando algo fora do comum. Monetariamente, com essa ideia base, algo assim [aplicativo pode ser criado](https://www.ratatype.com.br/).
