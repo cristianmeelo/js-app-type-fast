@@ -17,6 +17,12 @@
 
 TypeFast is a web application for you to train your typing speed! <img src="screencapture.png" alt="Imagem do TypeFast" >
 
+<div align="center">
+<a href="https://js-app-type-fast-p67q-hf9mygfm4-cristianmeelo.vercel.app/">
+  <img src="https://img.shields.io/badge/-check%20here-lightgrey" alt="Image App" >
+</a>
+</div>
+
 ## 🔨 Project features
 
 Typefast is a web application for you to train your typing speed. There are 10 randomly generated phrases that must be replicated in the input field, it is case sensitive, so be careful! Upon completing the phrase challenge, a local history of your speed is maintained. Challenge yourself, or someone else!
