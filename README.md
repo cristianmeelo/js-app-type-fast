@@ -11,14 +11,14 @@
   </tr>
 </table>
 
-![TypeFast](https://github.com/cristianmeelo/js-app-type-fast/blob/main/thumbnail.png#vitrinedev)
+![TypeFast](https://raw.githubusercontent.com/cristianmeelo/js-app-type-fast/main/thumbnail.png#vitrinedev)
 
 # TypeFast
 
 TypeFast é um aplicativo web para você treinar sua velocidade de digitação! <img src="screencapture.png" alt="Imagem do TypeFast">
 
 <div align="center">
-<a href="https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app/>
+<a href="https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app"/>
   <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
 </a>
 </div>
@@ -26,8 +26,6 @@ TypeFast é um aplicativo web para você treinar sua velocidade de digitação! 
 ## 🔨 Recursos do Projeto
 
 Typefast é um aplicativo da web para você treinar sua velocidade de digitação. Existem 10 frases geradas aleatoriamente que devem ser replicadas no campo de entrada, diferencia maiúsculas de minúsculas, portanto, cuidado! Ao completar o desafio de frase, um histórico local de sua velocidade é mantido. Desafie a si mesmo, ou a outra pessoa!
-
-O [Tutorial deste aplicativo você encontra aqui](https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar).
 
 ## ⚙️ Técnicas e tecnologias utilizadas
 
@@ -47,3 +45,10 @@ Em seguida, vá para http://127.0.0.1:5500/ em seu navegador.
 ## 📚 Mais informações sobre o curso
 
 TypeFast é um aplicativo da web desenvolvido a partir do tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). A ideia principal da implementação deste tutorial é evoluir ainda mais o conhecimento em Javascript e um jogo divertido, desafiando algo fora do comum. Monetariamente, com essa ideia base, algo assim [aplicativo pode ser criado](https://www.ratatype.com.br/).
+
+| :placard: Vitrine.Dev |                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| :sparkles: Nome       | **Type Fast**                                                                      |
+| :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
+| :rocket: URL          | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
+| :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
