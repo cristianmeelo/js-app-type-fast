@@ -48,9 +48,9 @@ Then go to http://127.0.0.1:5500/ in your browser.
 
 TypeFast is a web application developed from the [Matheus Battisti ](https://www.youtube.com/@MatheusBattisti) tutorial. The main idea of ​​this tutorial implementation is to further evolve knowledge in Javascript and a fun game, challenging something out of the ordinary. Monetarily, with this base idea, something like this [app can be created](https://www.ratatype.com.br/).
 
-| :cartaz: Vitrine.Dev |                                                                                    |
+| :placard: Vitrine.Dev |                                                                                    |
 | -------------------- | ---------------------------------------------------------------------------------- |
-| :brilhos: Nome       | **Digite rápido**                                                                  |
+| :sparkles: Nome       | **Digite rápido**                                                                  |
 | :label: Tecnologias  | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
-| :foguete: URL        | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
+| :rocket: URL        | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
 | :fire: Desafio       | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
