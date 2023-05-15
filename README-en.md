@@ -33,8 +33,8 @@ The [Tutorial of this application you can find here](https://www.youtube.com/wat
 
 Check out this list of everything we will use in this app:
 
-- `html`
-- `css`
+- `HTML`
+- `CSS`
 - `JavaScript`
 - `GitHub`
 
