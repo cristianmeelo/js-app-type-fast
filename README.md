@@ -56,4 +56,4 @@ TypeFast é um aplicativo da web desenvolvido a partir do tutorial [Matheus Batt
 | :rocket: URL          | https://js-app-type-fast.vercel.app/                                               |
 | :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
 
-![](https://github.com/cristianmeelo/react-app-freelando/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/js-app-type-fast/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
