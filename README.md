@@ -19,7 +19,7 @@ TypeFast é um aplicativo web para você treinar sua velocidade de digitação! 
 
 <div align="center">
 <a href="https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app"/>
-  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-red" alt="Image App" >
 </a>
 </div>
 

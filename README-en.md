@@ -19,7 +19,7 @@ TypeFast is a web application for you to train your typing speed! <img src="scre
 
 <div align="center">
 <a href="https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app"/>
-  <img src="https://img.shields.io/badge/-check%20here-lightgrey" alt="Image App" >
+  <img src="https://img.shields.io/badge/-CHECK%20HERE-red" alt="Image App" >
 </a>
 </div>
 
@@ -49,8 +49,8 @@ Then go to http://127.0.0.1:5500/ in your browser.
 TypeFast is a web application developed from the [Matheus Battisti ](https://www.youtube.com/@MatheusBattisti) tutorial. The main idea of ​​this tutorial implementation is to further evolve knowledge in Javascript and a fun game, challenging something out of the ordinary. Monetarily, with this base idea, something like this [app can be created](https://www.ratatype.com.br/).
 
 | :placard: Vitrine.Dev |                                                                                    |
-| -------------------- | ---------------------------------------------------------------------------------- |
+| --------------------- | ---------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Digite rápido**                                                                  |
-| :label: Tecnologias  | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
-| :rocket: URL        | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
-| :fire: Desafio       | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
+| :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
+| :rocket: URL          | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
+| :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
