@@ -13,15 +13,18 @@
 
 ![TypeFast](https://raw.githubusercontent.com/cristianmeelo/js-app-type-fast/main/thumbnail-en.png)
 
-# TypeFast
-
-TypeFast is a web application for you to train your typing speed! <img src="screencapture.png" alt="Imagem do TypeFast" >
-
+<img src="mockup.gif" alt="Image App" >
 <div align="center">
-<a href="https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app"/>
+<a href="https://js-app-type-fast.vercel.app/">
   <img src="https://img.shields.io/badge/-CHECK%20HERE-red" alt="Image App" >
 </a>
 </div>
+
+<br/>
+
+# TypeFast
+
+TypeFast is a web application for you to train your typing speed!
 
 ## 🔨 Project features
 
@@ -52,7 +55,7 @@ TypeFast is a web application developed from the [Matheus Battisti ](https://www
 | --------------------- | ---------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Digite rápido**                                                                  |
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
-| :rocket: URL          | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
+| :rocket: URL          | https://js-app-type-fast.vercel.app/                                               |
 | :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
 
 ![](https://github.com/cristianmeelo/react-app-freelando/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
