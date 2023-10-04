@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![TypeFast](https://raw.githubusercontent.com/cristianmeelo/js-app-type-fast/main/thumbnail-en.png#vitrinedev)
+![TypeFast](https://raw.githubusercontent.com/cristianmeelo/js-app-type-fast/main/thumbnail-en.png)
 
 # TypeFast
 
@@ -54,3 +54,5 @@ TypeFast is a web application developed from the [Matheus Battisti ](https://www
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
 | :rocket: URL          | https://react-app-github-finder-fsv0patb0-cristianmeelo.vercel.app                 |
 | :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
+
+![](https://github.com/cristianmeelo/react-app-freelando/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
