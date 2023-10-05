@@ -16,7 +16,7 @@
 <img src="mockup.gif" alt="Image App" >
 <div align="center">
 <a href="https://js-app-type-fast.vercel.app/">
-  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-red" alt="Image App" >
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
 </a>
 </div>
 
