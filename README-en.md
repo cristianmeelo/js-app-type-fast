@@ -13,7 +13,8 @@
 
 ![TypeFast](https://raw.githubusercontent.com/cristianmeelo/js-app-type-fast/main/thumbnail-en.png)
 
-<img src="mockup.gif" alt="Image App" >
+![](https://github.com/cristianmeelo/js-app-type-fast/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
 <div align="center">
 <a href="https://js-app-type-fast.vercel.app/">
   <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue" alt="Image App" >
@@ -57,5 +58,3 @@ TypeFast is a web application developed from the [Matheus Battisti ](https://www
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                                     |
 | :rocket: URL          | https://js-app-type-fast.vercel.app/                                               |
 | :fire: Desafio        | https://www.youtube.com/watch?v=MOsJdRmQoko&ab_channel=MatheusBattisti-HoradeCodar |
-
-![](https://github.com/cristianmeelo/js-app-type-fast/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
